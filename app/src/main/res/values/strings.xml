@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HelloSharedPrefs</string>
+    <!-- Button label for blue button -->
+    <string name="blue_button">Blue</string>
+
+    <!-- Button label for green button -->
+    <string name="green_button">Green</string>
+
+    <!-- Button label for red button -->
+    <string name="red_button">Red</string>
+
+    <!-- Button label for black button -->
+    <string name="black_button">Black</string>
+
+    <!-- Default string for count TextView -->
+    <string name="default_count">0</string>
+
+    <!-- Button label for Count button -->
+    <string name="count_button">Count</string>
+
+    <!-- Button label for Reset button -->
+    <string name="reset_button">Reset</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
