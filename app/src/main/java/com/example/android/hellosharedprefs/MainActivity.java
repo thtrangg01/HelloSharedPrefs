@@ -70,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
         Boolean switchPref = sharedPref.getBoolean ("example_switch", false);
         String example_editext = sharedPref.getString("example_editext", "NoName");
 
+//        Toast.makeText(this, switchPref.toString(),Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "Hi" + example_editext + ", You set volumn: " + switchPref.toString(),Toast.LENGTH_SHORT).show();
 
     }
